@@ -26,8 +26,12 @@ body {
 
 .container {
     display: flex;
-    justify-content: space-around;
-    gap: -60px;
+    justify-content: centre;
+    align-items: centre;
+    flex-wrap: wrap;
+    max-width: 800px;
+    margin: auto;
+     gap: 30px;
 }
 
 .score-display {
