@@ -11,6 +11,8 @@
 
 
 body {
+    max-width: 1200px; /* Adjust as needed */
+    margin: 0 auto; /* Centers content if width is set */
     margin: 0;
     text-align: center;
     color: #EEEEEE;
